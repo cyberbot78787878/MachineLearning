@@ -2,9 +2,6 @@
 
 DataSet:https://www.kaggle.com/datasets/amroaskar/us-covid-19-and-human-mobility-2021/data
 
-•	Is this a regression, classification, or clustering problem
-Regression 
-Is there a target variable?
-daily_cases
-•	What is the model expected to learn or predict?
-Mobility metrics like retail_and_recreation, grocery_and_pharmacy, parks, transit_stations, workplaces, and residential.
+Type:Regression 
+target variable: daily_cases
+What is the model expected to learn or predict? :Mobility metrics like retail_and_recreation, grocery_and_pharmacy, parks, transit_stations, workplaces, and residential.
